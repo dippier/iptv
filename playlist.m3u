@@ -21,7 +21,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="WGBODT1.us" tvg-logo="https://i.imgur.com/5RIEi99.png" group-title="",WGBO-DT1
 https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=test_token
-#EXTINF:-1 tvg-id="ColumbiaPublicSchools.us" tvg-logo="https://www.cpsk12.org/cms/lib/MO01909752/Centricity/Domain/6796/ylargelogo.jpg" group-title="Education",Columbia Public Schools
+#EXTINF:-1 tvg-id="ColumbiaPublicSchools.us" tvg-logo="https://ibb.co/Jzy2gG1" group-title="Education",Columbia Public Schools
 https://reflect-cpstv-cpsk12-mo.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious",3ABN English
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
