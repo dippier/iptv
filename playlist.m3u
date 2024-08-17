@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CTN.us" tvg-logo="https://i.imgur.com/mHCabmJ.png" group-title="Religious",CTN
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1536288/tQk4_7Yw3Yp8pabt5MqXCw/1723465811/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="",ION TV East
 https://lnc-ion.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="",WPIX-DT1
